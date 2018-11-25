@@ -7,8 +7,13 @@ a puzzle in which players insert the numbers one to nine into a grid consisting 
 
 ### Wireframe 
 ![alt text](images/wirefrime.png)
-
-### Prerequisites
+https://wireframe.cc/h7R0uK
+### Color
+	#30b1c3	(48,177,195)
+    #9a4e00	(154,78,0)
+    #ff6700	(255,103,0)
+    #ffa700	(255,167,0)
+    #fcffcd	(252,255,205)
 
 ### Technology
 
@@ -17,3 +22,9 @@ a puzzle in which players insert the numbers one to nine into a grid consisting 
 * CSS
 ```
 
+```
+
+### flowChart
+![alt text](images/flowchart.png)
+
+User Click 
