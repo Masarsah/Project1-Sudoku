@@ -27,4 +27,15 @@ https://wireframe.cc/h7R0uK
 ### flowChart
 ![alt text](images/flowchart.png)
 
-User Click 
+##main flow of event
+User Click start
+by defulte it is Easy 
+user complete the board
+when the user solve the puzzle right he win
+user click play again 
+
+##exceptional flow of event
+if user solve the puzzle false
+the computer button click solve
+
+
