@@ -21,7 +21,7 @@ body{
 }
 
 #main {
-    float: inline-start;
+margin: 0 auto;
     align-content: center;
     align-items: center;
     text-align: center;
@@ -89,6 +89,18 @@ li {
  a {
     text-decoration: none;
 }
+
+
+
+/* Main */
+
+
+table {
+    align-content: center;
+    
+}
+
+/* footer */
 
 .fa {
     color: #9a4e00;
