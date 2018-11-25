@@ -2,6 +2,7 @@ body{
     background-color: #fcffcd;
     align-content: center;
     text-align: center;
+    justify-content: center;
 
 }
 
@@ -13,14 +14,18 @@ body{
 }
 
 #container{
-    width:80%;
+    width:100%;
     margin: auto;
     padding: 5%;
   
 }
 
 #main {
-
+    float: inline-start;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    width: 60%;
 }
 
 #sidebarL{
@@ -87,5 +92,4 @@ li {
 
 .fa {
     color: #9a4e00;
-    font-size: 60px;
 }
