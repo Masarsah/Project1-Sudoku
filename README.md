@@ -23,6 +23,9 @@ https://wireframe.cc/h7R0uK
 * JAVASCRIPT
 * CSS
 ```
+logic
+ generate algorithm 
+ solver
 
 ```
 
@@ -36,8 +39,13 @@ https://wireframe.cc/h7R0uK
 * when the user solve the puzzle right he win
 * user click play again 
 
-##exceptional flow of event
+## Exceptional flow of event
 * if user solve the puzzle false
 * the computer button click solve
 
 
+
+
+## Helpful resourse
+
+http://jsfiddle.net/jcferrans/G5U8s/1/
