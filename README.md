@@ -8,7 +8,7 @@ a puzzle in which players insert the numbers one to nine into a grid consisting 
 
 
 ### Wireframe 
-![alt text](images/wirefrime.png)
+![alt text](images/wire.png)
 https://wireframe.cc/h7R0uK
 ### Color
 	#30b1c3	(48,177,195)

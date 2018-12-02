@@ -213,3 +213,15 @@ table {
     color: #9a4e00;
 }
 
+.how2 {
+   background-color: aliceblue;
+   color: #30b1c3;
+   border-radius: 20px;
+   width: fit-content;
+   padding: 20px;
+align-content: center}
+
+.how2>li{
+    color: #30b1c3;
+    
+}

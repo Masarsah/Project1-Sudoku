@@ -168,7 +168,7 @@ function renderPlayer(){
             && $('#input48').val('2') && $('#input49').val('5') && $('#input50').val('6') && $('#input51').val('3') 
                    && $('#input52').val('7')
     })
-/// array arenge 
+//................varible define and function of game ..................// 
 
 var resultMessage = document.querySelector('.win');
 
