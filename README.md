@@ -8,6 +8,7 @@ a puzzle in which players insert the numbers one to nine into a grid consisting 
 
 
 ### Wireframe 
+
 ![alt text](images/wire.png)
 https://wireframe.cc/h7R0uK
 ### Color
@@ -32,7 +33,7 @@ logic
 ### flowChart
 ![alt text](images/flowchart.png)
 
-##main flow of event
+## main flow of event
 * User Click start
 * by defulte it is Easy 
 * user complete the board
@@ -44,8 +45,10 @@ logic
 * the computer button click solve
 
 
+## Resourse flow of event
+
+https://code.jquery.com/
 
 
-## Helpful resourse
 
-http://jsfiddle.net/jcferrans/G5U8s/1/
+

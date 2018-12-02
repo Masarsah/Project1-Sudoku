@@ -219,7 +219,9 @@ table {
    border-radius: 20px;
    width: fit-content;
    padding: 20px;
-align-content: center}
+align-content: center;
+font-size: 19px 
+}
 
 .how2>li{
     color: #30b1c3;
